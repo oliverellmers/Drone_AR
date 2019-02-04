@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Dropbox\\_Temp\\MidAirTets\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.4.0.aar\\a40fe4b100862abd5ad4f88ec3420610\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,280,365,451",
+                        "endColumns": "43,45,84,85,60",
+                        "endOffsets": "233,279,364,450,511"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,153,242,332",
+                        "endColumns": "47,49,88,89,64",
+                        "endOffsets": "98,148,237,327,392"
+                    }
+                }
+            ]
+        }
+    ]
+}
